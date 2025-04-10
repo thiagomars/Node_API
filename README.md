@@ -2,7 +2,7 @@
 
 Esta é uma API construída com Node.js, MongoDB e TypeScript, estruturada com boas práticas como camadas de serviço e repositório, autenticação JWT, validação com Joi e documentação interativa com Swagger.
 
-> 🧠 Projeto desenvolvido a partir de uma demanda real no ambiente de trabalho, como parte do meu processo de expansão técnica para além do ecossistema .NET.
+> 🧠 Projeto desenvolvido como parte do meu processo de expansão técnica para além do ecossistema .NET.
 
 ---
 
@@ -120,10 +120,6 @@ Este projeto foi criado com base em uma demanda real no ambiente profissional, o
 Caso queira trocar ideias sobre o projeto ou tecnologias backend:
 
 **Guilherme Borges**  
-📧 [r15.thiagomarques@gmail.com]  
+📧 r15.thiagomarques@gmail.com
 🔗 [LinkedIn](www.linkedin.com/in/thiago-marques-sousa-b22627152)  
 🐙 [GitHub](https://github.com/thiagomars)
-
----
-
-**Desenvolvido com ❤️ + ☕**
